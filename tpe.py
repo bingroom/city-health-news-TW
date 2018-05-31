@@ -7,8 +7,6 @@ from pyquery import PyQuery as pq
 import json
 import os
 import shutil
-#import sys
-#sys.path.append('/home/joekaojoekao/food_safety/city_news/')
 import hashlib
 #from libs import file_to_text
 import urllib3

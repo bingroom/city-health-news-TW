@@ -8,7 +8,7 @@ from pyquery import PyQuery as pq
 import HTMLParser
 import requests
 import hashlib
-from libs import file_to_text
+#from libs import file_to_text
 import os
 import shutil
 

@@ -9,7 +9,7 @@ import hashlib
 #from libs import file_to_text
 import os
 import shutil
-from libs.file_to_text import file_to_text
+#from libs.file_to_text import file_to_text
 
 FILES_DIR = './files/'
 PREFIX = 'http://www.hcshb.gov.tw/'
@@ -147,12 +147,12 @@ def dump(since_date):
                 #print file_url
                 download_file(file_url, file_name)
                 
-        files_content = file_to_text(FILES_DIR)
+        #files_content = file_to_text(FILES_DIR)
 
         date = datetime.strftime(dt, '%Y-%m-%d')
         ut = datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S')
         hashcode = hashlib.md5(('hsh'+ news_title + date).encode("utf-8")).hexdigest()
-        d = {'url': news_url, 'content': news_title + content, 'file_content': files_content, 'date': date, 'updatetime': ut, 'hashcode': hashcode}
+        d = {'url': news_url, 'content': news_title + content, 'date': date, 'updatetime': ut, 'hashcode': hashcode}
 
         dl.append(d)
 
