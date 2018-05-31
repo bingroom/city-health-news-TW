@@ -1,0 +1,22 @@
+臺北市(tpe)：https://health.gov.taipei/Default.aspx?tabid=36&mid=442
+臺中市(txg)： http://www.health.taichung.gov.tw/26216/26204/26216/26204/26201/26204/27056/Lpsimplelist
+基隆市(klu)： http://www.klchb.gov.tw/ch/news/newspaper/list.aspx?c0=640
+臺南市(tnn)： https://health.tainan.gov.tw/list.asp?nsub=A0A600&topage=1
+高雄市(khh)： http://khd.kcg.gov.tw/Main.aspx?sn=398
+新北市(ntpe)： http://www.health.ntpc.gov.tw
+宜蘭縣(ilc)： http://www.ilshb.gov.tw/index.php?catid=23&cid=4
+桃園市(tyc)： http://dph.tycg.gov.tw/home.jsp?id=13
+嘉義市(cyi)： https://www.cichb.gov.tw/news/indexpda.asp
+新竹縣(hsh)： http://www.hcshb.gov.tw/home.jsp?mserno=200802220002&serno=200802220015&menudata=HcshbMenu&contlink=hcshb/ap/news.jsp
+新竹市(hsc)： http://www.hccg.gov.tw/MunicipalNews?websitedn=ou=hcchb,ou=ap_root,o=hccg,c=tw&language=chinese&title=%E8%A1%9B%E7%94%9F%E6%96%B0%E8%81%9E
+苗栗縣(mal)： https://www.mlshb.gov.tw/tc/PressRelease.aspx?pn=1&department=7
+南投縣(nto)： http://www.ntshb.gov.tw/Default.aspx
+彰化縣(cwh)： http://www.chshb.gov.tw/news/?type_id=127&top=0
+雲林縣(yun)： http://www.ylshb.gov.tw/news/index.php?m=9&m1=14&m2=35
+嘉義縣(chy)： https://cyshb.cyhg.gov.tw/News.aspx?n=E236E03D6AE796F8&sms=A55ECAF6D99EACF8
+屏東縣(pch)： http://www.ptshb.gov.tw/News.aspx?CategorySN=1894&n=CC774672B906BC5E
+花蓮縣(hwa)： http://www.hlshb.gov.tw/files/40-1006-27-1.php
+臺東縣(ttt)： http://www.ttshb.gov.tw/files/40-1000-12-1.php?Lang=zh-tw
+金門縣(kmn)： http://phb.kinmen.gov.tw/News.aspx?n=87FB8DD4C759A8B5&sms=A2C62D68901B977C
+澎湖縣(peh)： https://www.phchb.gov.tw/home.jsp?id=23
+連江縣(lnn)： http://www.matsuhb.gov.tw/2009web/news/news_contents.php?room=news1
